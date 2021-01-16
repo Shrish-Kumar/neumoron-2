@@ -1,0 +1,6 @@
+//link the play buttonst
+const play =document.getElementById("play-button");
+
+play.onclick=()=>{
+    location.href="./game.html";
+}
